@@ -56,3 +56,7 @@
 > finalizando a terceira rodada a equipe que tiver mais pontos vence com > isso deverá aparecer o nome da equipe vencedora; 
 > 
 > o sistema deverá zerar sempre o campo de pontos de cada equipe sempre que > alguém atingir 12 pontos, mas deve manter a pontuação do placar. 
+ 
+## TECNOLOGIAS
+ - JAVA
+ - NETBEANS
